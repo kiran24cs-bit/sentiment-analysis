@@ -1,0 +1,6 @@
+spacy
+pandas
+numpy
+sklearn
+nltk
+joblib
